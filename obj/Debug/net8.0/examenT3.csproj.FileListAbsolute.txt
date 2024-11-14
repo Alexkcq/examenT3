@@ -12,3 +12,4 @@ C:\Users\ALEXANDER\Downloads\inisco-8568\examenT3\obj\Debug\net8.0\refint\examen
 C:\Users\ALEXANDER\Downloads\inisco-8568\examenT3\obj\Debug\net8.0\examenT3.pdb
 C:\Users\ALEXANDER\Downloads\inisco-8568\examenT3\obj\Debug\net8.0\examenT3.genruntimeconfig.cache
 C:\Users\ALEXANDER\Downloads\inisco-8568\examenT3\obj\Debug\net8.0\ref\examenT3.dll
+C:\Users\ALEXANDER\Downloads\inisco-8568\examenT3\obj\Debug\net8.0\examenT3.sourcelink.json

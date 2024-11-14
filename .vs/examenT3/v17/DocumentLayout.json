@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "CitaUtil.cs",
               "ToolTip": "C:\\Users\\ALEXANDER\\Downloads\\inisco-8568\\examenT3\\CitaUtil.cs",
               "RelativeToolTip": "CitaUtil.cs",
-              "ViewState": "AQIAACMAAAAAAAAAAAAgwAgAAAALAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-14T14:22:13.711Z",
               "EditorCaption": ""
@@ -51,8 +51,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAAQwFgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T12:56:01.892Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-14T12:56:01.892Z"
             },
             {
               "$type": "Document",
@@ -64,8 +63,7 @@
               "RelativeToolTip": "Estudiante.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAQwBsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T12:57:27.925Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-14T12:57:27.925Z"
             },
             {
               "$type": "Document",
@@ -77,8 +75,7 @@
               "RelativeToolTip": "Citas.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T12:58:26.789Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-14T12:58:26.789Z"
             }
           ]
         }
