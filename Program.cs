@@ -1,5 +1,4 @@
-﻿using ExamenT3;
-using ExamenT3;
+﻿using examenT3;
 using ExamT3;
 
 public class Program
@@ -24,7 +23,6 @@ public class Program
                 Console.WriteLine("Opción no válida, ingrese un número.");
                 continue;
             }
-
             switch (opcion)
             {
                 case 1:
