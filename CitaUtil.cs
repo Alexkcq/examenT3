@@ -1,11 +1,12 @@
 ﻿using examenT3;
+using ExamT3;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Examen_T3
+namespace ExamenT3
 {
     public static class CitaUtil
     {
